@@ -1,2 +1,44 @@
 # Leetcode-July-2020
 Leetcode July Challenge 2020 Python Solutions
+- Week 1:
+  - [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) : [Solution](Week_1/arrangingcoins.py)
+  - []() : [Solution](Week_1/)
+  - []() : [Solution](Week_1/)
+  - []() : [Solution](Week_1/)
+  - []() : [Solution](Week_1/)
+  - []() : [Solution](Week_1/)
+  - []() : [Solution](Week_1/)
+
+- Week 2:
+  - []() : [Solution](Week_2/)
+  - []() : [Solution](Week_2/)
+  - []() : [Solution](Week_2/)
+  - []() : [Solution](Week_2/)
+  - []() : [Solution](Week_2/)
+  - []() : [Solution](Week_2/)
+  - []() : [Solution](Week_2/)
+
+- Week 3:
+  - []() : [Solution](Week_3/)
+  - []() : [Solution](Week_3/)
+  - []() : [Solution](Week_3/)
+  - []() : [Solution](Week_3/)
+  - []() : [Solution](Week_3/)
+  - []() : [Solution](Week_3/)
+  - []() : [Solution](Week_3/)
+
+- Week 4:
+  - []() : [Solution](Week_4/)
+  - []() : [Solution](Week_4/)
+  - []() : [Solution](Week_4/)
+  - []() : [Solution](Week_4/)
+  - []() : [Solution](Week_4/)
+  - []() : [Solution](Week_4/)
+  - []() : [Solution](Week_4/)
+
+- Week 5:
+  - []() : [Solution](Week_5/)
+  - []() : [Solution](Week_5/)
+  - []() : [Solution](Week_5/)
+
+
