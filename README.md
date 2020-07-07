@@ -7,7 +7,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) : [Solution](Week_1/uglynumber2.py)
   - [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) : [Solution](Week_1/hammingdistance.py)
   - [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) : [Solution](Week_1/plusone.py)
-  - []() : [Solution](Week_1/)
+  - [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) : [Solution](Week_1/islandperimeter.py)
 
 - Week 2:
   - []() : [Solution](Week_2/)
