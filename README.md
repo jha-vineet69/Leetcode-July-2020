@@ -10,7 +10,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) : [Solution](Week_1/islandperimeter.py)
 
 - Week 2:
-  - []() : [Solution](Week_2/)
+  - [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) : [Solution](Week_2/3sum.py)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
