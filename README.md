@@ -13,7 +13,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) : [Solution](Week_2/3sum.py)
   - [Maximum Width Of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/) : [Solution](Week_2/maxwidthbintree.py)
   - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) : [Solution](Week_2/flattenmultileveldll.py)
-  - []() : [Solution](Week_2/)
+  - [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) : [Solution](Week_2/subsets.py)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
   - []() : [Solution](Week_2/)
