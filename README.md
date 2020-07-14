@@ -16,7 +16,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) : [Solution](Week_2/subsets.py)
   - [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) : [Solution](Week_2/reversebits.py)
   - [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) : [Solution](Week_2/sametree.py)
-  - []() : [Solution](Week_2/)
+  - [Angle between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) : [Solution](Week_2/angleclock.py)
 
 - Week 3:
   - []() : [Solution](Week_3/)
