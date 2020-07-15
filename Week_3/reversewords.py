@@ -1,3 +1,4 @@
+#Approach 1:
 class Solution:
     def reverseWords(self, s: str) -> str:
         result, i, n = '', 0, len(s)
@@ -12,3 +13,8 @@ class Solution:
             else: result = "".join((sub, ' ', result))
             i = j + 1
         return result
+
+#Approach 2: Pythonic - But not advised in an interview
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        return ' '.join(reversed(s.split()))
