@@ -19,7 +19,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Angle between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) : [Solution](Week_2/angleclock.py)
 
 - Week 3:
-  - []() : [Solution](Week_3/)
+  - [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) : [Solution](Week_3/reversewords.py)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
