@@ -21,7 +21,7 @@ Leetcode July Challenge 2020 Python Solutions
 - Week 3:
   - [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) : [Solution](Week_3/reversewords.py)
   - [Pow(x,n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) : [Solution](Week_3/pow.py)
-  - []() : [Solution](Week_3/)
+  - [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/) : [Solution](Week_3/topkfreqelements.py)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
   - []() : [Solution](Week_3/)
