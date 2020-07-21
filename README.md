@@ -25,7 +25,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/) : [Solution](Week_3/courseschedule2.py)
   - [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) : [Solution](Week_3/addbinary.py)
   - [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) : [Solution](Week_3/removelinkedlistelement.py)
-  - []() : [Solution](Week_3/)
+  - [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) : [Solution](Week_3/wordsearch.py)
 
 - Week 4:
   - []() : [Solution](Week_4/)
