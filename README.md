@@ -28,7 +28,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) : [Solution](Week_3/wordsearch.py)
 
 - Week 4:
-  - []() : [Solution](Week_4/)
+  - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) : [Solution](Week_4/zigzagbinary.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
