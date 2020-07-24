@@ -30,7 +30,7 @@ Leetcode July Challenge 2020 Python Solutions
 - Week 4:
   - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) : [Solution](Week_4/zigzagbinary.py)
   - [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) : [Solution](Week_4/singlenumber3.py)
-  - []() : [Solution](Week_4/)
+  - [All Paths from Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) : [Solution](Week_4/allpaths.py)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
   - []() : [Solution](Week_4/)
