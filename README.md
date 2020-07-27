@@ -33,7 +33,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [All Paths from Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) : [Solution](Week_4/allpaths.py)
   - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) : [Solution](Week_4/minrotatedarray.py)
   - [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) : [Solution](Week_4/adddigits.py)
-  - []() : [Solution](Week_4/)
+  - [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) : [Solution](Week_4/constructbinarytree.py)
   - []() : [Solution](Week_4/)
 
 - Week 5:
