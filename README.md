@@ -37,7 +37,7 @@ Leetcode July Challenge 2020 Python Solutions
   - [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) : [Solution](Week_4/taskscheduler.py)
 
 - Week 5:
-  - []() : [Solution](Week_5/)
+  - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) : [Solution](Week_5/stockcooldown.py)
   - []() : [Solution](Week_5/)
   - []() : [Solution](Week_5/)
 
