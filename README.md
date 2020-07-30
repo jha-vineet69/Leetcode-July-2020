@@ -38,7 +38,7 @@ Leetcode July Challenge 2020 Python Solutions
 
 - Week 5:
   - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) : [Solution](Week_5/stockcooldown.py)
-  - []() : [Solution](Week_5/)
+  - [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) : [Solution](Week_5/wordbreak2.py)
   - []() : [Solution](Week_5/)
 
 
